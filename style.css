@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Spinnaker', sans-serif;
+}
+
+.heading {
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+
+.sub_tit {
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header a {
+    font-size: 14px;
+    margin-left: 2rem;
+}
+
+.header i {
+    font-size: 18px;
+    margin-right: 1rem;
+}
+
+.hero_icon i {
+    font-size: 2rem;
+    padding: 1rem;
+    background: #06d6a0;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.hero_section {
+    height: 130vh;
+    background-image: url(http://jevelin.shufflehound.com/medical/wp-content/uploads/sites/23/2018/09/lady.jpg?id=17) !important;
+    background-position: center;
+    background-size: cover;
+}
+
+.hero_sub {
+    margin-top: -10rem;
+    padding: 4rem;
+}
+
+.hero_card {
+    width: 24rem;
+    padding: 3rem 2rem;
+    background: #ade8f4;
+    border-radius: 10px;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.hero_card span {
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.hero_card button {
+    padding: 1rem 1.8rem;
+    font-size: 13px;
+    border: none;
+    background-color: #fff;
+    border-radius: 25px;
+}
+
+.help_div {
+    background-image: url(https://jevelin.shufflehound.com/medical/wp-content/uploads/sites/23/2018/09/Rectangle-827-copy-2.jpg?id=72);
+    background-position: center;
+    background-size: cover;
+}
+
+.help_desc {
+    padding: 5rem 3rem;
+}
+
+.help_desc h4 {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.dr button {
+    background: #00ab8e;
+    padding: 1rem 1.4rem;
+    font-size: 15px;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+}
+
+.survey_div{
+    background: #f4f4f4;
+}
+
+.survey_data{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.offers_card {
+    width: 24rem;
+    padding: 3rem 2rem;
+    background: #ade8f4;
+    border-radius: 10px;
+    display: flex;
+    height: 35rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.offers_card button {
+    padding: 1rem 1.8rem;
+    font-size: 13px;
+    border: none;
+    background-color: #fff;
+    border-radius: 25px;
+}
+
+.location_desc i{
+    font-size: 2rem;
+    margin: 0 1.8rem;
+    color: #3ce2ad;
+}
+
+.location_desc{
+    background: #f4f4f4;
+    padding: 6rem 0;
+}
